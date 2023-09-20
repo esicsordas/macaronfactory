@@ -14,26 +14,22 @@ public class Macaron {
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
     private Long id;
-    private boolean isThisBasicMacaron;
-    private int price;
+    private boolean basicMacaron;
     private String upperShellColor;
     private String upperShellFlour;
     private String creamFlavor;
     private String bottomShellColor;
     private String bottomShellFlour;
+    private int price;
 
-    public Macaron(Long id, boolean isThisBasicMacaron, String upperShellColor, String upperShellFlour, String creamFlavor, String bottomShellColor, String bottomShellFlour) {
+
+    public Macaron(boolean basicMacaron, String upperShellColor, String upperShellFlour, String creamFlavor, String bottomShellColor, String bottomShellFlour) {
         this.id = id;
-        this.isThisBasicMacaron = isThisBasicMacaron;
-        this.price = calculatePrice();
+        this.basicMacaron = basicMacaron;
         this.upperShellColor = upperShellColor;
         this.upperShellFlour = upperShellFlour;
         this.creamFlavor = creamFlavor;
         this.bottomShellColor = bottomShellColor;
         this.bottomShellFlour = bottomShellFlour;
-    }
-
-    private int calculatePrice() {
-        return this.isThisBasicMacaron ? 2 : 3 ;
     }
 }
