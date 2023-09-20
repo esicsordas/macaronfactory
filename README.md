@@ -151,12 +151,12 @@ In this project, you can build and 'order' (not a real order) macarons in variou
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[forks-shield]: https://img.shields.io/github/forks/esicsordas/macaron-factory?style=for-the-badge
-[forks-url]: https://github.com/esicsordas/macaron-factory/forks
-[stars-shield]: https://img.shields.io/github/stars/esicsordas/macaron-factory?style=for-the-badge
-[stars-url]: https://github.com/esicsordas/macaron-factory/stargazers
-[issues-shield]: https://img.shields.io/github/issues/esicsordas/macaron-factory?style=for-the-badge
-[issues-url]: https://github.com/esicsordas/macaron-factory/issues
+[forks-shield]: https://img.shields.io/github/forks/esicsordas/macaronfactory?style=for-the-badge
+[forks-url]: https://github.com/esicsordas/macaronfactory/forks
+[stars-shield]: https://img.shields.io/github/stars/esicsordas/macaronfactory?style=for-the-badge
+[stars-url]: https://github.com/esicsordas/macaronfactory/stargazers
+[issues-shield]: https://img.shields.io/github/issues/esicsordas/macaronfactory?style=for-the-badge
+[issues-url]: https://github.com/esicsordas/macaronfactory/issues
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/linkedin_username
 [LinkedIn - Emese]: https://www.linkedin.com/in/emese-csordas-854553181/
