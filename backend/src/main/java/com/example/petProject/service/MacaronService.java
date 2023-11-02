@@ -28,6 +28,7 @@ public class MacaronService {
                 .creamFlavor(macaron.creamFlavor())
                 .bottomShellColor(macaron.bottomShellColor())
                 .bottomShellFlour(macaron.bottomShellFlour())
+                .name(macaron.name())
                 .build();
         //Probably not the best solution, needs more thinking
         newMacaron.setPrice(macaron.basicMacaron() ? 2 : 3);

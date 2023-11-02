@@ -20,10 +20,11 @@ public class Macaron {
     private String creamFlavor;
     private String bottomShellColor;
     private String bottomShellFlour;
+    private String name;
     private int price;
 
 
-    public Macaron(boolean basicMacaron, String upperShellColor, String upperShellFlour, String creamFlavor, String bottomShellColor, String bottomShellFlour) {
+    public Macaron(boolean basicMacaron, String upperShellColor, String upperShellFlour, String creamFlavor, String bottomShellColor, String bottomShellFlour, String name) {
         this.id = id;
         this.basicMacaron = basicMacaron;
         this.upperShellColor = upperShellColor;
@@ -31,5 +32,6 @@ public class Macaron {
         this.creamFlavor = creamFlavor;
         this.bottomShellColor = bottomShellColor;
         this.bottomShellFlour = bottomShellFlour;
+        this.name = name;
     }
 }
