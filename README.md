@@ -75,6 +75,8 @@
 
 * [![PostgreSQL][PostgreSQL.img]][PostgreSQL-url]
 
+*  [![Material-UI][Material-UI.img]][Material-UI-url]
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -172,3 +174,5 @@ In this project, you can build and 'order' (not a real order) macarons in variou
 [PostgreSQL-url]: https://www.postgresql.org/
 [Java.img]: https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white
 [Java-url]: https://www.java.com/en/
+[Material-UI.img]: https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white
+[Material-UI-url]: https://mui.com/material-ui/
